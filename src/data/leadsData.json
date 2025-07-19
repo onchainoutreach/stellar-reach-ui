@@ -1,0 +1,317 @@
+
+{
+  "leads": [
+    {
+      "id": "1",
+      "name": "Hoops Finance",
+      "position": "Analytics and DeFi platform",
+      "company": "Hoops Finance",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/hoops.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "2",
+      "name": "Normal",
+      "position": "Wrapped asset protocol",
+      "company": "Normal",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/normal.png",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "3",
+      "name": "Emir A.",
+      "position": "Community Manager",
+      "company": "SDF",
+      "type": "B2C",
+      "source": "curated",
+      "image": "/images/",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "4",
+      "name": "Tansu",
+      "position": "Bringing developers communities on-chain",
+      "company": "Tansu",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/tansu.png",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "5",
+      "name": "Anke Liu",
+      "position": "Ecosystem Growth",
+      "company": "SDF",
+      "type": "B2C",
+      "source": "curated",
+      "image": "/images/",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "6",
+      "name": "StellarLight",
+      "position": "Discover the Stellar Ecosystem",
+      "company": "StellarLight",
+      "type": "B2B",
+      "source": "imported",
+      "image": "/images/stellarlighticon.png",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "7",
+      "name": "Soroswap",
+      "position": "AMM and AMM Aggregator",
+      "company": "Soroswap",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/soroswap.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "8",
+      "name": "Gemma Dobbs",
+      "position": "Ecosystem Growth",
+      "company": "SDF",
+      "type": "B2C",
+      "source": "curated",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "telegram": "https://t.me/",
+        "discord": "https://discord.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "9",
+      "name": "LumenLoop",
+      "position": "News, projects and events aggregator",
+      "company": "LumenLoop",
+      "type": "B2B",
+      "source": "imported",
+      "image": "/images/lumenloopicon.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "10",
+      "name": "Matias Wald",
+      "position": "Senior Technical Sales Engineer",
+      "company": "Elizabeth Companies",
+      "type": "B2C",
+      "source": "curated",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "email": "test@gmail.com",
+        "linkedin": "https://linkedin.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "11",
+      "name": "Unalivio",
+      "position": "Payments method",
+      "company": "Unalivio",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/unalivio.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "12",
+      "name": "Ernesto Contreras",
+      "position": "CEO",
+      "company": "Unalivio",
+      "type": "B2C",
+      "source": "imported",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "13",
+      "name": "Blend Capital",
+      "position": "Decentralized lending pools",
+      "company": "Blend Capital",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/blend.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "discord": "https://discord.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "14",
+      "name": "Albedo",
+      "position": "Signer and keystore for Stellar Network",
+      "company": "Albedo",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/albedo.png",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "15",
+      "name": "Alejo M.",
+      "position": "Founder",
+      "company": "Skyhitz",
+      "type": "B2C",
+      "source": "imported",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "telegram": "https://t.me/",
+        "email": "test@gmail.com"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "16",
+      "name": "Stellar Carbon",
+      "position": "Transparent carbon offsetting",
+      "company": "Stellar Carbon",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/carbon.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "17",
+      "name": "Bastian A. Koh",
+      "position": "CEO And Founder",
+      "company": "Hoops Finance",
+      "type": "B2C",
+      "source": "imported",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "telegram": "https://t.me/",
+        "discord": "https://discord.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "18",
+      "name": "Skyhitz",
+      "position": "Empowering musicians and creators",
+      "company": "Skyhitz",
+      "type": "B2B",
+      "source": "curated",
+      "image": "/images/skyhitz.jpg",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "twitter": "https://x.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "19",
+      "name": "Pamphile Roy",
+      "position": "General Manager",
+      "company": "Consulting Manao",
+      "type": "B2C",
+      "source": "curated",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "email": "test@gmail.com",
+        "linkedin": "https://linkedin.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "20",
+      "name": "OrbitLens",
+      "position": "Stellar ledger insights, analytics, and more",
+      "company": "OrbitLens",
+      "type": "B2B",
+      "source": "imported",
+      "image": "/images/orbitlens.png",
+      "social": {
+        "linkedin": "https://linkedin.com/",
+        "email": "test@gmail.com",
+        "discord": "https://discord.com/"
+      },
+      "updatedYear": 2025
+    },
+    {
+      "id": "21",
+      "name": "Raphael F.",
+      "position": "Co-Founder",
+      "company": "LumenLoop",
+      "type": "B2C",
+      "source": "curated",
+      "image": "/images/",
+      "social": {
+        "twitter": "https://x.com/",
+        "discord": "https://discord.com/",
+        "telegram": "https://t.me/"
+      },
+      "updatedYear": 2025
+    }
+  ]
+}
